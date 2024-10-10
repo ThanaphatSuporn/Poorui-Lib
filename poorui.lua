@@ -8,7 +8,6 @@ function PoorUi:Create(Title)
 	local TextLabel = Instance.new("TextLabel")
 	local Frame = Instance.new("Frame")
 	local UIListLayout = Instance.new("UIListLayout")
-	local Sector = Instance.new("TextLabel")
 
 	--Properties:
 
